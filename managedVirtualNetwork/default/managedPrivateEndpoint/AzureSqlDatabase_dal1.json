@@ -1,0 +1,10 @@
+{
+	"name": "AzureSqlDatabase_dal1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7404b39c-6a2f-4c4e-a363-f499d8f9b5fb/resourceGroups/DataAnalyticsLab/providers/Microsoft.Sql/servers/sqlserverdal",
+		"groupId": "sqlServer",
+		"fqdns": [
+			"sqlserverdal.database.windows.net"
+		]
+	}
+}

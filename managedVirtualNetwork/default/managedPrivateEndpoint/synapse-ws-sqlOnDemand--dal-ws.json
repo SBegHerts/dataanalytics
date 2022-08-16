@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--dal-ws",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/7404b39c-6a2f-4c4e-a363-f499d8f9b5fb/resourceGroups/DataAnalyticsLab/providers/Microsoft.Synapse/workspaces/dal-ws",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"dal-ws-ondemand.215ecd9e-af78-4168-a9c7-e98bb0228d82.sql.azuresynapse.net"
+		]
+	}
+}
